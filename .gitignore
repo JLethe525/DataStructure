@@ -14,6 +14,8 @@ Release/
 .vs/
 *.user
 *.suo
+*.vcxproj
+*.vcxproj.filters
 
 ## Misc
 [Bb]in/
