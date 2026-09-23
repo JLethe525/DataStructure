@@ -1,0 +1,20 @@
+## Build output
+x64/
+Debug/
+Release/
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.idb
+*.tlog
+*.log
+
+## Visual Studio
+.vs/
+*.user
+*.suo
+
+## Misc
+[Bb]in/
+[Oo]bj/
